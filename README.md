@@ -1,18 +1,6 @@
-<<<<<<< HEAD
-# CleanTech-Transforming-Waste-Management-Using-Transfer-Learning
-CleanTech is a deep learning–based waste classification system that uses transfer learning to automatically identify waste types from images (plastic, paper, metal, glass, organic). The project helps improve waste segregation efficiency and supports smarter, sustainable waste management solutions.
-## Features
-
-- ♻️ AI-based waste classification system  
-- 🧠 Uses Deep Learning and Transfer Learning  
-- 📸 Image-based waste detection  
-- 🗂️ Classifies plastic, paper, metal, glass, and organic waste  
-- ⚡ Faster and more accurate than manual sorting  
-- 🌱 Supports smart and sustainable waste management  
-=======
 # CleanTech: Transforming Waste Management With Transfer Learning
 
-CleanTech is a waste classification project that uses transfer learning to identify waste categories from image data. The goal is to support smarter waste segregation and improve recycling workflows using an image-based classification approach.
+CleanTech is a deep learning-based waste classification system that uses transfer learning to identify waste categories from image data. The project supports smarter waste segregation and improved recycling workflows through image-based classification.
 
 ## Project Overview
 
@@ -20,6 +8,14 @@ CleanTech is a waste classification project that uses transfer learning to ident
 - Used transfer learning to classify waste images into meaningful categories.
 - Applied image preprocessing and structured data handling for better model consistency.
 - Evaluated classification outputs to support practical waste segregation.
+
+## Features
+
+- AI-based waste classification system
+- Deep learning and transfer learning workflow
+- Image-based waste detection
+- Waste category classification for practical segregation
+- Supports smart and sustainable waste management
 
 ## Tech Stack
 
@@ -42,4 +38,3 @@ Dataset used: [Trash Type Image Dataset](https://www.kaggle.com/datasets/farzadn
 ## Team ID
 
 LTVIP2025TMID41993
->>>>>>> 2b8c511 (Add CleanTech waste management project)
